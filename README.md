@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 BE in Information Science @ CMR Institute of Technology, Bangalore (2026)<br>
-  💻 Full-Stack Developer | ☁️ Aspiring Cloud & AI Engineer<br>
+  💻 Full-Stack Developer |<br>
   📍 Based in Bangalore | 🇮🇳 Indian | 🔭 Open to internships & collaborations
 </p>
 
