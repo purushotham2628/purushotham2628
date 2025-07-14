@@ -61,6 +61,28 @@ I’m a passionate developer who loves building meaningful tech. From full-stack
 - 🧩 Participated in multiple coding challenges and state-level Kabaddi tournaments
 
 ---
+## 🏆 Certifications
+
+- 📜 **HTML & CSS Crash Course**  
+  *Scrimba via Coursera*  
+  🔗 [Verify on Coursera](https://coursera.org/verify/209AE00WTSZ6)
+
+- 📜 **Artificial Intelligence with Python – Intermediate Level**  
+  *Onwingspan*  
+  🔗 [Verify Certificate](https://verify.onwingspan.com)
+
+- 📜 **Advance Java Basics (JDBC, Servlet, JSP, Spring)**  
+  *Udemy – Instructor: Sandeep Thakur*  
+  🔗 [Verify](https://ude.my/UC-5a53cbbf-68ad-4863-8bef-f6d0da25bde4)
+
+- 📜 **C++ and Java Training Crash Course**  
+  *Udemy – Crunch Coding*  
+  🔗 [Verify](https://ude.my/UC-82b4d6b4-0c6d-40c0-a8a3-e6dc5057b7f7)
+
+- 📜 **Python and Flask Framework Course**  
+  *Udemy – Horizon Tech*  
+  🔗 [Verify](https://ude.my/UC-b3804beb-1530-4931-b287-11fd47433e6c)
+
 
 ## 📬 Let’s Connect!
 
