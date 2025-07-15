@@ -2,89 +2,83 @@
 
 <p align="center">
   🎓 BE in Information Science @ CMR Institute of Technology, Bangalore (2026)<br>
-  💻 Full-Stack Developer |<br>
-  📍 Based in Bangalore | 🇮🇳 Indian | 🔭 Open to internships & collaborations
+  💻 Full-Stack Developer | IoT & AI Enthusiast<br>
+  📍 Based in Bengaluru | 🇮🇳 Indian | 🔭 Open to internships & collaborations
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I’m a passionate developer who loves building meaningful tech. From full-stack web apps to real-time environmental monitoring systems, I enjoy solving real-world problems using **JavaScript, Node.js, React**, and **Python**. I’m also diving deeper into **cloud platforms**, **AI integration**, and **DevOps practices**.
+I'm an enthusiastic **full-stack developer** with a focus on solving real-world problems through scalable applications. I’ve built and deployed 3+ production-grade projects, including an IoT-powered air quality dashboard, and I’m passionate about **cloud technologies**, **AI integrations**, and **DevOps**.
 
-> ⚡ _"Code that solves a problem is worth more than code that just runs."_  
+> ⚡ "_Build systems that serve a purpose, not just code that compiles._"
 
 ---
 
 ## 🛠️ Tech Toolbox
 
-| Domain | Tools & Technologies |
-|--------|----------------------|
-| **Languages** | Java, Python, C, JavaScript |
-| **Frontend** | HTML, CSS, React.js |
-| **Backend** | Node.js, Express.js |
-| **Databases** | MongoDB, MySQL, SQLite |
-| **Tools & IDEs** | Git, GitHub, VS Code, Jupyter |
-| **Data & Reporting** | Power BI, Tableau, Excel |
-| **Cloud & DevOps (Learning)** | AWS, CI/CD, Docker |
+| Category        | Tools & Technologies                                      |
+|-----------------|-----------------------------------------------------------|
+| **Languages**   | Java (DSA), Python, C, JavaScript                         |
+| **Frontend**    | HTML, CSS, React.js                                       |
+| **Backend**     | Node.js, Express.js                                       |
+| **Databases**   | MongoDB, MySQL, SQLite                                    |
+| **Dev Tools**   | Git, GitHub, VS Code, Jupyter                             |
+| **Cloud & DevOps** | AWS (Learning), Docker, CI/CD                         |
+| **Data & Visualization** | Power BI, Tableau, Excel                     |
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🔧 [Salon Appointment Booking System](https://github.com/purushotham2628/salon-appointment-system)
-> Full-stack system for managing client bookings and preventing overlaps with real-time admin validation.
+### 🌫️ [Air Quality Monitoring Dashboard](https://github.com/purushotham2628/air-quality)
+> Real-time environmental dashboard to monitor and forecast pollution levels in Bengaluru. Visualizes live air quality metrics (PM2.5, AQI, etc.) and weather data with auto-refresh, charting, and health recommendations.
 
-**Tech**: HTML, CSS, JavaScript, Node.js, Express.js, SQLite
+**Tech**: Node.js, Express.js, JavaScript, Chart.js, HTML, CSS  
+📸 *Glassmorphism UI, mobile-friendly, sensor integration planned*
 
 ---
 
 ### 🕒 [Smart Queue Management System](https://github.com/purushotham2628/smart-queue-management)
-> Real-time token system to streamline queues for hospitals/salons with a dashboard.
+> A real-time token and queue monitoring system for hospitals and salons. Tracks queue positions and admin visibility using REST APIs.
 
-**Tech**: React.js, Node.js, Express.js, REST API
+**Tech**: React.js, Node.js, Express.js, JavaScript  
+⚙️ *Responsive design with token-based smart system*
 
 ---
 
-### 🌫️ Air Quality Monitoring & Pollution Predictor *(In Progress)*
-> Monitors real-time air metrics and predicts pollution using historical trends.
+### ✂️ [Salon Appointment Booking System](https://github.com/purushotham2628/salon-appointment-system)
+> A full-stack web app for clients to book and manage salon appointments. Prevents overlaps through admin-side validation and live status.
 
-**Tech**: JavaScript, Node.js, Express.js, Sensor Integration
+**Tech**: HTML, CSS, JavaScript, Node.js, Express.js, SQLite  
+📅 *Includes customer dashboard + staff panel*
 
 ---
 
 ## 🏆 Achievements
 
-- 📦 **Patent Contributor**: IoT-Driven Package Security & Monitoring (IP India, 2024)
-- 🧠 **8+ Certifications**: Java, Python, DevOps, AI (Infosys, Udemy, Coursera)
-- ⚙️ Built and deployed **3+ full-stack apps** and one IoT-based smart system
-- 🧩 Participated in multiple coding challenges and state-level Kabaddi tournaments
+- 🧠 **8+ Industry Certifications**: Java, Python, Flask, AI, DevOps (Infosys, Udemy, Coursera)
+- 📦 **Patent Contributor**: IoT-based Package Sealing System, IP India (2024)
+- 🛠️ **Built 3+ end-to-end applications** solving real-world service problems
+- 🧩 Competed in **State-Level Kabaddi Tournaments**
 
 ---
-## 🏆 Certifications
 
-- 📜 **HTML & CSS Crash Course**  
-  *Scrimba via Coursera*  
-  🔗 [Verify on Coursera](https://coursera.org/verify/209AE00WTSZ6)
+## 📜 Certifications
 
-- 📜 **Artificial Intelligence with Python – Intermediate Level**  
-  *Onwingspan*  
-  🔗 [Verify Certificate](https://verify.onwingspan.com)
+| Title                                             | Platform              | Verify Link |
+|--------------------------------------------------|-----------------------|-------------|
+| Artificial Intelligence with Python (Intermediate) | Infosys Springboard   | [🔗 Verify](https://verify.onwingspan.com) |
+| Advanced Java Basics (JDBC, Servlet, Spring)     | Udemy (Sandeep Thakur) | [🔗 Verify](https://ude.my/UC-5a53cbbf-68ad-4863-8bef-f6d0da25bde4) |
+| HTML & CSS Crash Course                          | Coursera / Scrimba    | [🔗 Verify](https://coursera.org/verify/209AE00WTSZ6) |
+| Python & Flask Full Course                       | Udemy (Horizon Tech)  | [🔗 Verify](https://ude.my/UC-b3804beb-1530-4931-b287-11fd47433e6c) |
+| JavaScript Crash Course                          | Udemy                 | *Coming Soon* |
+| C++ & Java Training Bootcamp                     | Udemy (Crunch Coding) | [🔗 Verify](https://ude.my/UC-82b4d6b4-0c6d-40c0-a8a3-e6dc5057b7f7) |
 
-- 📜 **Advance Java Basics (JDBC, Servlet, JSP, Spring)**  
-  *Udemy – Instructor: Sandeep Thakur*  
-  🔗 [Verify](https://ude.my/UC-5a53cbbf-68ad-4863-8bef-f6d0da25bde4)
+---
 
-- 📜 **C++ and Java Training Crash Course**  
-  *Udemy – Crunch Coding*  
-  🔗 [Verify](https://ude.my/UC-82b4d6b4-0c6d-40c0-a8a3-e6dc5057b7f7)
-
-- 📜 **Python and Flask Framework Course**  
-  *Udemy – Horizon Tech*  
-  🔗 [Verify](https://ude.my/UC-b3804beb-1530-4931-b287-11fd47433e6c)
-
-
-## 📬 Let’s Connect!
+## 📬 Let’s Connect
 
 <p align="center">
   <a href="mailto:purushotham2628@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
