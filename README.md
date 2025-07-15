@@ -18,15 +18,15 @@ I'm an enthusiastic **full-stack developer** with a focus on solving real-world 
 
 ## 🛠️ Tech Toolbox
 
-| Category        | Tools & Technologies                                      |
-|-----------------|-----------------------------------------------------------|
-| **Languages**   | Java (DSA), Python, C, JavaScript                         |
-| **Frontend**    | HTML, CSS, React.js                                       |
-| **Backend**     | Node.js, Express.js                                       |
-| **Databases**   | MongoDB, MySQL, SQLite                                    |
-| **Dev Tools**   | Git, GitHub, VS Code, Jupyter                             |
-| **Cloud & DevOps** | AWS (Learning), Docker, CI/CD                         |
-| **Data & Visualization** | Power BI, Tableau, Excel                     |
+| Category           | Tools & Technologies                              |
+|--------------------|---------------------------------------------------|
+| **Languages**      | Java (DSA), Python, C, JavaScript                 |
+| **Frontend**       | HTML, CSS, React.js                               |
+| **Backend**        | Node.js, Express.js                               |
+| **Databases**      | MongoDB, MySQL, SQLite                            |
+| **Dev Tools**      | Git, GitHub, VS Code, Jupyter                     |
+| **Cloud & DevOps** | AWS (Learning), Docker, CI/CD                     |
+| **Data & Visualization** | Power BI, Tableau, Excel                |
 
 ---
 
@@ -67,14 +67,17 @@ I'm an enthusiastic **full-stack developer** with a focus on solving real-world 
 
 ## 📜 Certifications
 
-| Title                                             | Platform              | Verify Link |
-|--------------------------------------------------|-----------------------|-------------|
+| Title                                              | Platform              | Verify Link |
+|---------------------------------------------------|-----------------------|-------------|
 | Artificial Intelligence with Python (Intermediate) | Infosys Springboard   | [🔗 Verify](https://verify.onwingspan.com) |
-| Advanced Java Basics (JDBC, Servlet, Spring)     | Udemy (Sandeep Thakur) | [🔗 Verify](https://ude.my/UC-5a53cbbf-68ad-4863-8bef-f6d0da25bde4) |
-| HTML & CSS Crash Course                          | Coursera / Scrimba    | [🔗 Verify](https://coursera.org/verify/209AE00WTSZ6) |
-| Python & Flask Full Course                       | Udemy (Horizon Tech)  | [🔗 Verify](https://ude.my/UC-b3804beb-1530-4931-b287-11fd47433e6c) |
-| JavaScript Crash Course                          | Udemy                 | *Coming Soon* |
-| C++ & Java Training Bootcamp                     | Udemy (Crunch Coding) | [🔗 Verify](https://ude.my/UC-82b4d6b4-0c6d-40c0-a8a3-e6dc5057b7f7) |
+| Advanced Java Basics (JDBC, Servlet, Spring)      | Udemy (Sandeep Thakur) | *Uploaded Certificate – No public link* |
+| HTML & CSS Crash Course                           | Coursera / Scrimba    | [🔗 Verify](https://coursera.org/verify/209AE00WTSZ6) |
+| Python & Flask Full Course                        | Udemy (Horizon Tech)  | *Uploaded Certificate – No public link* |
+| DevOps – More Than Just Dev & Ops                 | Infosys Springboard   | [🔗 Verify](https://verify.onwingspan.com) |
+| Maturing DevOps Practice in the Enterprise        | Infosys Springboard   | [🔗 Verify](https://verify.onwingspan.com) |
+| C++ & Java Training Bootcamp                      | Udemy (Crunch Coding) | *Uploaded Certificate – No public link* |
+
+*ℹ️ Infosys Springboard certificates use QR-based verification via [onwingspan.com](https://verify.onwingspan.com)*
 
 ---
 
