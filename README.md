@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm an enthusiastic **full-stack developer** with a focus on solving real-world problems through scalable applications. I’ve built and deployed 3+ production-grade projects, including an IoT-powered air quality dashboard, and I’m passionate about **cloud technologies**, **AI integrations**, and **DevOps**.
+I'm an enthusiastic **full-stack developer** with a focus on solving real-world problems through scalable applications. I’ve built 3+ production-grade projects, including an IoT-powered air quality dashboard, and I’m passionate about **cloud technologies**, **AI integrations**, and **DevOps**.
 
 > ⚡ "_Build systems that serve a purpose, not just code that compiles._"
 
